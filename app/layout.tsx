@@ -1,5 +1,5 @@
 // This remains a server component
-import PrivyProvider from '@/Components/providers/PrivyProvider';
+import PrivyProvider from '@/app/Components/providers/PrivyProvider';
 import { Inter } from 'next/font/google';
 import './globals.css';
 

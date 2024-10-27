@@ -1,6 +1,6 @@
 
-import AuthButton from '@/Components/auth/AuthStatus';
-import UserProfile from '@/Components/auth/UserProfile';
+import AuthButton from '@/app/Components/auth/AuthStatus';
+import UserProfile from '@/app/Components/auth/UserProfile';
 
 export default function Home() {
   return (
