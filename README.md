@@ -15,7 +15,7 @@ Follow these steps to set up the project on your local machine:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/<Your-GitHub-Username>/morph-privy.git
 cd morph-privy
 ```
 
@@ -57,12 +57,6 @@ Your application should now be live at `http://localhost:3000`!
 
 ## 🤝 Contributing
 We welcome contributions to improve **Morph-Privy**. Please fork the repository and submit a pull request.
-
----
-
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
 **Happy Building! 🚀**
