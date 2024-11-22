@@ -11,7 +11,7 @@ export default function AuthButton() {
     <button
       onClick={authenticated ? logout : login}
     >
-    <p className='bg-green-700 text-white rounded-lg'>  {authenticated ? 'Disconnect' : 'Connect Wallet'}</p>
+    <p className='bg-green-700 text-white rounded-lg p-5'>  {authenticated ? 'Disconnect' : 'Connect Wallet'}</p>
     </button>
   );
 }
