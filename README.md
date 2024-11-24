@@ -3,8 +3,7 @@
 Welcome to **Morph-Privy**, a seamless integration of Morph's robust capabilities with the power of Privy, allowing easy Google authentication setup in just a few steps. This project ensures that developers can focus on building their applications while Privy manages the heavy lifting of authentication and data privacy.
 
 ## 🚀 Features
-- **Morph**: A powerful framework for application development.
-- **Privy**: Simple and secure data management and authentication.
+- **Privy**: Simple and secure user Onboarding 
 - **Google Authentication**: Smooth integration for user sign-in with Google.
 
 ---
